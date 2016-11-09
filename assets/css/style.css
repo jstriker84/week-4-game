@@ -1,0 +1,34 @@
+body {
+	background: url("../images/seigaiha/seigaiha/seigaiha.png");
+	font-size: 20px;
+	line-height: 30px;
+	font-weight: 700;
+	color: #666;
+	padding: 20px;
+}
+
+h1 {
+	padding: 40px;
+	background: purple;
+	border: 2px solid #ccc;
+	font-size: 50px;
+	font-weight: 700;
+	color: #fff;
+	text-align: center;
+}
+
+h2 {
+	padding: 60px;
+	background: teal;
+	border: 2px solid #ccc;
+	width: 30%;
+	color: black;
+	font-size: 40px;
+}
+
+h3 {
+	padding: 20px;
+	background: pink;
+	border: 2px solid #ccc;
+	width: 30%;
+}
