@@ -20,4 +20,6 @@ This is the Crystal Collector game built using jQuery. Here's how the app works:
  
  * The game restarts whenever the player wins or loses.
  
+ Heroku link: https://calm-beyond-62150.herokuapp.com
+ 
   
